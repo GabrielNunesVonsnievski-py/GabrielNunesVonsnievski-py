@@ -1,5 +1,5 @@
 - Nome = Gabriel Nunes Vonsnievski
-- Idade = 16
+- Idade = 17
 - Altura = 1,76
 - Área Profissional = Informática
 - Estado = Santa Catarina
