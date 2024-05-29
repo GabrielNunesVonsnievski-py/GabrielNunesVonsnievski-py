@@ -1,10 +1,10 @@
 - Nome = Gabriel Nunes Vonsnievski
 - Idade = 17
-- Altura = 1,76
 - Área Profissional = Informática
 - Estado = Santa Catarina
 - Cidade = Criciúma
 - Atualmente estudando na escola Técnica Satc e cursando informática
+- Téc. Informática 3/4
   
 - <a href="https://www.instagram.com/g_nunesv/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
