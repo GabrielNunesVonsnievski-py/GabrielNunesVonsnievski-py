@@ -23,6 +23,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielNunesVonsnievski-py&theme=blue_navy&show_icons=true)
 
-![Anurag's GitHub Repo Card](https://github-readme-stats.vercel.app/api?username=GabrielNunesVonsnievski-py&theme=blue_navy&show_icons=true)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrielNunesVonsnievski-py)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNunesVonsnievski-py&hide_progress=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNunesVonsnievski-py)](https://github.com/anuraghazra/github-readme-stats)
 
 
