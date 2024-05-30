@@ -23,4 +23,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielNunesVonsnievski-py&theme=blue_navy&show_icons=true)
 
+![Anurag's GitHub Repo Card](https://github-readme-stats.vercel.app/api?username=GabrielNunesVonsnievski-py&theme=blue_navy&show_icons=true)
+
 
