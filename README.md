@@ -21,5 +21,6 @@
           
           
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielNunesVonsnievski-py&theme=codeSTACKr&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielNunesVonsnievski-py&theme=shadow_red&show_icons=true)
+
 
