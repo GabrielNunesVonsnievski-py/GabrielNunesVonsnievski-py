@@ -1,5 +1,5 @@
 - Nome = Gabriel Nunes Vonsnievski
-- Idade = 17
+- Idade = 18
 - Área Profissional = Informática
 - Estado = Santa Catarina
 - Cidade = Criciúma
