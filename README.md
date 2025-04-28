@@ -3,7 +3,7 @@
 - Área Profissional = Informática
 - Estado = Santa Catarina
 - Cidade = Criciúma
-- Atualmente estudando na escola Técnica Satc e cursando informática
+- Dev no setor de desenvolvimento da SATC
 - Téc. Informática 4/4
   
 - <a href="https://www.instagram.com/g_nunesv/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
