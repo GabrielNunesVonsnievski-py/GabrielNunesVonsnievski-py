@@ -14,17 +14,3 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" heigth="60"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" heigth="60"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" heigth="60"/>
-          
-          
-          
-            
-          
-          
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielNunesVonsnievski-py&theme=default&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNunesVonsnievski-py&hide_progress=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNunesVonsnievski-py)
-
-
