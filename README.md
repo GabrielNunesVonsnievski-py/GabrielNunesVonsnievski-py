@@ -5,6 +5,7 @@
 - Cidade = Criciúma
 - Dev no setor de desenvolvimento da SATC
 - Téc. Informática 4/4
+- Engenharia De Software Unisatc 1/8
   
 - <a href="https://www.instagram.com/g_nunesv/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
